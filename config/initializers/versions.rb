@@ -1,1 +1,3 @@
-#Разобраться,как добавить версию проекта сюда
+module TestGuru
+  VERSION = "1.0.0".freeze
+end
