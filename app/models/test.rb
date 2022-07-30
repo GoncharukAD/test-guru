@@ -1,2 +1,2 @@
-class Test < ApplicationRecordtes
+class Test < ApplicationRecord
 end
